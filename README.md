@@ -1,7 +1,8 @@
 # PokeBI-Dashboard
 Pokémon Power BI Dashboard
 Welcome to the repository for my Pokémon-themed Power BI dashboard. This project is a blend of data analytics and my personal passion for Pokémon, showcasing advanced visualization techniques to bring data-driven insights to life.
-Project Overview
+
+# Project Overview
 This dashboard was created as a part of my ongoing learning in data visualization, utilizing Power BI to explore innovative ways to present and interact with data. The dashboard features animated elements and interactive visuals that make data exploration engaging and informative.
 Features
 Animated Progress Bars: Visual representations that animate according to data metrics, offering a dynamic way to view data changes over time.
